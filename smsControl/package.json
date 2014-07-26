@@ -1,0 +1,22 @@
+{
+  "name": "smsControl",
+  "version": "0.0.1",
+  "description": "Receive a message from the SMS gateway and control the lock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/georgedewar/datalock-basestation.git"
+  },
+  "author": "Sean Callinan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgedewar/datalock-basestation/issues"
+  },
+  "homepage": "https://github.com/georgedewar/datalock-basestation",
+  "dependencies": {
+    "express": "^4.6.1"
+  }
+}
